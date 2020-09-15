@@ -21,6 +21,8 @@ def subtract(num1, num2):
 result = subtract(100, 30)
 print(result)
 
+result = subtract(120, 20)
+print(result)
 
 
 def divide(dividend, divisor):
